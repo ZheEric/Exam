@@ -1,0 +1,227 @@
+   66    189  cp /c/Users/A00880095/index.html git/index2.html
+   67    190  cp /c/Users/A00880095/index.html git/index3.html
+   69    192  cp style.css js.js git/
+   72  $ git clone https://github.com/ZheEric/apcd git
+   73  fatal: destination path 'git' already exists and is not an empty directory.
+   75  $ cd git
+   76  A00880095@SE06L0107-19 MINGW32 /c/Users/A00880095/desktop/git
+   77  $ git clone
+   78  git clone https://github.com/ZheEric/apple.git
+   90  git add js img css
+   91  git status
+   92  git commit -m "banana"
+   93  git push origin master
+  100  git status
+  102  git status
+  103  git add css js index1.htmi index2.html index3.html
+  104  git commit -m "Hello"
+  105  git commit -m"Hello"
+  106  git add .
+  107  git commit -m "Hello"
+  108  git pull --no-edit
+  109  git push origin master
+  112  git add index1.html
+  113  git commit -m "Bye"
+  114  git pull --no-edit
+  115  git push origin master
+  116  git branch v0.0.1
+  117  git checkout v0.0.1
+  119  git add .
+  120  git commit -m "Orange"
+  121  git push origin v0.0.1
+  123  git checkout master
+  129  git add .
+  130  git commit -m"milk"
+  131  git pull --no-edit
+  132  git push origin master
+  133  git checkout v0.0.1
+  134  git merge master
+  136  git add .
+  137  git commit -m "Blue"
+  138  git status
+  139  git pull --no-edit
+  140  git checkout master
+  141  git add .
+  142  git commit -m"milk"
+  143  git pull --no-edit
+  144  git push origin master
+  145  git checkout v0.0.1
+  146  git checkout v0.0.1
+  147  git merge master
+  148  git add .
+  149  git commit -m"bread"
+  152  git add .
+  153  git add *.PNG
+  154  git add.
+  155  git add .
+  156  git pull --no-edit
+  162  mkdir git
+  163  cp /c/Users/A00880095/index.html git/
+  164  cp /c/Users/A00880095/index.html git/index1.html
+  165  cp /c/Users/A00880095/index.html git/index2.html
+  166  cp /c/Users/A00880095/index.html git/index3.html
+  168  cp style.css git/
+  169  cp js.js git/
+  171  cd git
+  172  git clone https://github.com/ZheEric/Eric.git
+  173  git Eric
+  177  git add js img css
+  178  git commit -m "E"
+  179  git push origin master
+  180  git status
+  190  git add js img css
+  191  git commit -m "E"
+  192  git push origin master
+  199  git status
+  201  git status
+  202  git add css js index1.html index2.html index3.html
+  203  git commit -m "R"
+  204  git pull --no-edit
+  205  git push origin master
+  208  git add index1.html
+  209  git commit -m "I"
+  210  git pull --no-edit
+  211  git push origin master
+  212  git branch v0.0.1
+  213  git checkout v0.0.1
+  214  git rm index2.html index3.html
+  215  git add .
+  216  git commit -m "C"
+  217  git push origin v0.0.1
+  219  git chackout master
+  220  git checkout master
+  225  git add .
+  226  git commit -m "Picture"
+  227  git pull --no-edit
+  228  git push origin master
+  229  git checkout v0.0.1
+  230  git merge master
+  231  git add .
+  232  git commit -m "Photo"
+  233  git pull --no-edit
+  234  git push origin v0.0.1
+  241  cp git backup/
+  242  cp -r git backup/
+  251  mv img.txt html.txt git/Eric
+  253  cd git/Eric
+  254  git checkout master
+  255  git add .
+  256  git commit -m "TXT"
+  257  git pull --no-edit
+  258  git push origin master
+  265  mkdir git
+  266  cp /c/Users/A00880095/index.html git/
+  267  cp /c/Users/A00880095/index.html git/index1.html
+  268  cp /c/Users/A00880095/index.html git/index2.html
+  269  cp /c/Users/A00880095/index.html git/index3.html
+  271  cp style.css js.js git/
+  272  cd git
+  273  git clone https://github.com/ZheEric/Hello.git
+  285  git add js img css
+  286  git commit -m"1"
+  287  git push origin master
+  288  cp /c/Users/A00880095/git/index1.html index2.html index3.html hello/
+  290  cp /c/Users/A00880095/git/index1.html index2.html index3.html hello/
+  291  cp /c/Users/A00880095/git/index1.html index2.html index3.html git/hello/
+  292  cp /c/Users/A00880095/git/index1.html index2.html index3.html Hello/
+  293  cp /c/Users/A00880095/desktop/git/index1.html index2.html index3.html Hello/
+  297  git status
+  299  git status
+  300  git add .
+  301  git commit -m "2"
+  302  git pull --no-edit
+  304  git push origin master
+  306  git add index1.html
+  307  git commit -m"3"
+  308  git pull --no-edit
+  309  git push origin master
+  312  git branch v0.0.1
+  313  git checkout v0.0.1
+  315  git add .
+  316  git commit -m "4"
+  317  git push origin v0.0.1
+  318  git checkout master
+  320  git head -3 index3.html
+  323  git add .
+  324  git commit -m"5"
+  325  git pull --no-edit
+  326  git push origin master
+  327  git checkout v0.0.1
+  328  git merge master
+  329  git add .
+  330  git commit -m "6"
+  331  git pull --no-edit
+  332  git push origin v0.0.1
+  333  git checkout master
+  339  cp -r git backup/
+  343  mv png.txt html.txt git/Hello/
+  344  cd git/Hello
+  345  git add .
+  346  git commit -m "7"
+  347  git pull --no-edit
+  348  git push origin master
+  397  mkdir git
+  398  cd git
+  399  git clone https://github.com/ZheEric/exam.git
+  400  cp -r /c/Users/A00880095/exame git/
+  401  cp /c/Users/A00880095/exame/js.js style.css git/
+  402  cp /c/Users/A00880095/exame/js.js style.css git/exam
+  404  cp /c/Users/A00880095/exame/js.js style.css git/exam
+  405  cp /c/Users/A00880095/exame/js.js git/exam
+  406  cp /c/Users/A00880095/Desktop/exame/js.js git/exam
+  407  cp /c/Users/A00880095/Desktop/exame/js.js git/exam
+  408  cp /c/Users/A00880095//exame/js.js git/exam
+  409  cp /c/Users/A00880095/exam/js.js style.css git/exam/
+  410  cp /c/Users/A00880095/exam/js.js git/exam/
+  411  cp /c/Users/A00880095/exam/style.css git/exam/
+  416  git add .
+  417  cd git
+  418  cd desktop/git/exam
+  419  git add .
+  420  git commit -m"1"
+  421  git push origin master
+  434  cd desktop/git/exam
+  435  git V2.0
+  436  git checkout v2.0
+  439  git branch v2.0
+  440  git checkout v2.0
+  441  git add .
+  442  git commit -m"3"
+  443  git push origin v2.0
+  444  git checkout master
+  446  git branch v3.0
+  447  git add .
+  448  git commit -m"5"
+  449  git push orgin v3.0
+  483  mkdir git
+  484  cd git
+  485  git clone https://github.com/ZheEric/exam.git
+  524  mkdir git
+  525  cd git
+  526  git clone https://github.com/ZheEric/Exam.git
+  531  git add .
+  532  git commit -m"1"
+  533  git push origin master
+  537  git branch v2.0
+  538  git checkout v2.0
+  539  git add .
+  540  git commit -m "2"
+  541  git push origin v2.0
+  542  git checkout master
+  544  git add .
+  545  git commit -m"3"
+  546  git push origin master
+  547  git checkout v2.0
+  548  git merge master
+  549  git push origin v2.0
+  551  git branch v3.0
+  552  git checkout v3.0
+  553  git push origin v3.0
+  554  git checkout master
+  556  git add .
+  557  git commit -m"4"
+  558  git push origin master
+  559  git checkout v3.0
+  560  git merge master
+  562  git checkout master
+  565  history | grep "git" > history.txt
